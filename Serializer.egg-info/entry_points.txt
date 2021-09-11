@@ -1,0 +1,3 @@
+[console_scripts]
+redump = src.redump:main
+
